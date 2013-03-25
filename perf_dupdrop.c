@@ -1,6 +1,4 @@
-/*	Ideal DUP DROP * 1000 assuming perfect inlining.
-	$Id: perf_dupdrop.c,v 1.1 2007-10-10 13:01:05 rich Exp $
-*/
+/*	Ideal DUP DROP * 1000 assuming perfect inlining. */
 
 #include <stdio.h>
 #include <stdlib.h>

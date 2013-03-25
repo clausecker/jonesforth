@@ -1,7 +1,6 @@
 ( -*- text -*-
   FORTH repeated DUP DROP * 1000 using ordinary indirect threaded code
-  and the assembler primitives.
-  $Id: perf_dupdrop.f,v 1.3 2007-10-12 01:46:26 rich Exp $ )
+  and the assembler primitives. )
 
 1024 32 * MORECORE
 
